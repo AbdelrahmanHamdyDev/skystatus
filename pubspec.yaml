@@ -41,6 +41,7 @@ dependencies:
   lottie: ^3.2.0
   flutter_screenutil: ^5.9.3
   redacted: ^1.0.13
+  custom_refresh_indicator: ^4.0.1
 
 dev_dependencies:
   flutter_test:
